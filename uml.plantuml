@@ -1,0 +1,42 @@
+@startuml block-07
+
+class App {
+}
+
+class Header {
+}
+
+
+class RESTy {
+}
+
+class Form {
+
+}
+
+class Json {
+
+}
+
+
+class Footer {
+}
+
+class RESTyContextProvider {
+  ==state==
+  # url:string
+  # method:string
+  # requestBody:string
+  # response:object
+}
+
+
+App --* Header
+App --* RESTy
+RESTy --* Form
+RESTy --* Json
+Form --# RESTyContextProvider
+Json --# RESTyContextProvider
+App --* Footer
+
+@enduml
