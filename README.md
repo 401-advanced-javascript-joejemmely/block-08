@@ -1,13 +1,13 @@
-# BLOCK - 07
+# BLOCK - 08
 
-## Resty to Hooks
+## Resty to Redux
 
 ### Author: Joé Jemmely
 
 ### Links and Resources
 
-- [submission PR](https://github.com/401-advanced-javascript-joejemmely/block-07/pull/1)
-- [travis](https://travis-ci.com/401-advanced-javascript-joejemmely/block-07)
+- [submission PR](https://github.com/401-advanced-javascript-joejemmely/block-08/pull/1)
+- [travis](https://travis-ci.com/401-advanced-javascript-joejemmely/block-08)
 - [front-end](https://submission.d397hhiv1k67mv.amplifyapp.com/)
 
 #### Running the app

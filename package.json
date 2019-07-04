@@ -37,6 +37,9 @@
     "@testing-library/react": "^8.0.4",
     "enzyme-adapter-react-16": "^1.14.0",
     "jest-environment-enzyme": "^7.0.2",
-    "jest-enzyme": "^7.0.2"
+    "jest-enzyme": "^7.0.2",
+    "react-redux": "^7.1.0",
+    "redux": "^4.0.1",
+    "redux-devtools-extension": "^2.13.8"
   }
 }
